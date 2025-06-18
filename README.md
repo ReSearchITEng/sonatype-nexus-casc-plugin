@@ -1,5 +1,5 @@
 >[!WARNING]
-without complete rewrite this plugin CANNOT be used beyond nexus 3.77.x.    
+Without complete rewrite this plugin CANNOT be used beyond Sonatype Nexus Repository 3.77.x.    
 
 Reason: **complete BWC Break in OSS NEXUS 3.78.0 (March 2025)**:        
 "Breaking change for custom plugins: Nexus Repository migrates to Spring Boot architecture.
