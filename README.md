@@ -1,4 +1,4 @@
-# WARNING
+>[!WARNING]
 without complete rewrite this plugin CANNOT be used beyond nexus 3.77.x.    
 
 Reason: **complete BWC Break in OSS NEXUS 3.78.0 (March 2025)**:        
